@@ -1,4 +1,4 @@
-# [CDV03] Starter CV for Software Development Role Siyabonga Masenya 
+# [CDV03] Starter CV for Software Development Role.  Siyabonga Masenya 
 
 Welcome to the GitHub repository for the [CDV03] project, focused on developing a standout resume for software development roles. This project guides you through the process of creating or refining your CV to effectively showcase your technical skills, professional experiences, and educational background, specifically tailored for opportunities in software development, with an emphasis on front-end technologies like React.js.
 
